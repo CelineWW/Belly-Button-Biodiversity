@@ -7,20 +7,24 @@ This project collected a demographic information of bacteria data from volunteer
  
   - Dropdown menu and demographic information table
      - By selecting Test Subject ID number from the dropdown menu, the individual's demographic information table and following three charts will dynamically response. 
-      ![dropdown menu and info](https://user-images.githubusercontent.com/105877888/184466327-33587554-553a-47fa-a946-c5ed18471509.PNG)
+       
+       ![dropdown menu and info](https://user-images.githubusercontent.com/105877888/184466327-33587554-553a-47fa-a946-c5ed18471509.PNG)
 
   - Bar chart
     - The horizontal bar chart identifys the subject's top 10 bacterial species in their navel.
+      
       ![bar chart](https://user-images.githubusercontent.com/105877888/184466334-c0bac258-cd64-40a9-9b88-ec6ea9d3da3a.PNG)
 
   
   - Gauge chart
     - The gauge chart reveals reveals how often does the subject clean his belly button.
+      
       ![gauge chart](https://user-images.githubusercontent.com/105877888/184466341-987a0416-5521-4c8d-97e2-1d51af7d50c5.PNG)
 
   
   - Bubble chart
     -  The bubble chart displays bacteria culture test result for each sample.
+       
        ![bubble chart](https://user-images.githubusercontent.com/105877888/184466353-838c2632-dab6-44c5-a777-1a373d69dc46.PNG)
 
   
