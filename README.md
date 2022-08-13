@@ -36,6 +36,9 @@ This project collected a demographic information of bacteria data from volunteer
     3. Text color and background color and bar chart color were changed. 
     4. Divider lines were added.
 
+## Summary
+1. Three types of chart were ultilized on dashboard. More others types of chart(line chart, bar chart, etc) are applicable too.
+2. This analysis is only base on individual subject. As a refenrence of bacteria speices identifying to manufacture synthetic beef, Deeper study on overall test subjects will provide more significant statistical meaning.
 
 
            
