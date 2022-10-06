@@ -1,4 +1,6 @@
-# Belly-Button-Biodiversity
+# Belly Button Biodiversity
+**:small_blue_diamond:Dashboard:small_blue_diamond:**
+
 ## Project Overview
 This project collected a demographic information of bacteria data from volunteers' belly button. Base on these data, we created a interactive dashboard to visulize each volunteer's belly button biodiversity.
 
