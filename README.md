@@ -1,6 +1,6 @@
 # Belly Button Biodiversity Dashboard
 
-Check webpage here: https://celineww.github.io/Belly-Button-Biodiversity/
+Check webpage here: [https://celineww.github.io/Biodiversity Plotly Dashboard/](https://celineww.github.io/Biodiversity_Plotly_Dashboard/)
 
 ## Project Overview
 This project collected a demographic information of bacteria data from volunteers' belly button. Base on these data, we created a interactive dashboard to visulize each volunteer's belly button biodiversity.
